@@ -1,2 +1,2 @@
-git add dir1
-git commit -m "commit all mofified changes"
+git add -A
+git commit -m "Commit all modified files"
